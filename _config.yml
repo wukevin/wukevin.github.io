@@ -86,8 +86,8 @@ author:
   location         : "Palo Alto, CA"
   employer         : Stanford University
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "wukevin [at] stanford [dot] edu"
+  googlescholar    : "https://scholar.google.com/citations?user=W8ghPqEAAAAJ"
+  email            : "wukevin@cs.stanford.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
