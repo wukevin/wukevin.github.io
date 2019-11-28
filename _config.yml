@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Kevin Wu"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "PhD student in Computer Science"
   location         : "Palo Alto, CA"
   employer         : Stanford University
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
