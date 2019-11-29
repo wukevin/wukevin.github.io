@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. Bioengineering, minor in Computer Science, UC Berkeley, 2012-2016
+* Ph.D. Computer Science, Stanford University, 2018-2023 (expected)
 
 Work experience
 ======
