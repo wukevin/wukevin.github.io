@@ -1,6 +1,6 @@
 ---
 title: "Universal short read adapters with variable length non-random unique molecular identifiers"
-excerpt: "Patent covering the general usage of variable length UMI barcodes"
+excerpt: "Patent covering the general usage of variable length UMI barcodes for sequencing error suppression"
 collection: portfolio
 ---
 
