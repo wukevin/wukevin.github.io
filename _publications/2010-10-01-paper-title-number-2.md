@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 2"
+title: "TCR-BERT: learning the grammar of T-cell receptors for flexible antigen-xbinding analyses"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2021-tcrbert
+excerpt: 'Large language modeling of T-cell receptor sequences'
+date: 2021-11-20
+venue: 'bioRxiv'
+paperurl: 'https://www.biorxiv.org/content/10.1101/2021.11.18.469186v1.full.pdf'
+citation: 'Wu, K., Yost, K.E., Daniel, B., Belk, J.A., Xia, Y., Egawa, T., Satpathy, A., Chang, H.Y. and Zou, J., 2021. TCR-BERT: learning the grammar of T-cell receptors for flexible antigen-xbinding analyses. bioRxiv.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+T-cell receptors (TCRs) are critical for mediating our immune systems' ability to recognize and respond to invaders. However, these TCR sequences are also extraordinarily diverse across individuals, making it challenging to build supervised classifiers that generalize well across different individuals. We present TCR-BERT, a large language model of TCR sequences; we demonstrate that TCR-BERT achieves state-of-the-art performance and generalizability across a wide range of TCR analyses and may even enable computational design of new TCR sequencees targeting specific antigens.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Download paper here](https://www.biorxiv.org/content/10.1101/2021.11.18.469186v1.full.pdf)
