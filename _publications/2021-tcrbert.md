@@ -1,5 +1,5 @@
 ---
-title: "TCR-BERT: learning the grammar of T-cell receptors for flexible antigen-xbinding analyses"
+title: "TCR-BERT: learning the grammar of T-cell receptors for flexible antigen-binding analyses"
 collection: publications
 permalink: /publication/2021-tcrbert
 excerpt: 'Large language modeling of T-cell receptor sequences'
