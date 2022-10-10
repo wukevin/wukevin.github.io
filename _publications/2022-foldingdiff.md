@@ -2,7 +2,7 @@
 title: "Protein structure generation via folding diffusion"
 collection: publications
 permalink: /publication/2022-foldingdiff
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'Generative diffusion model for protein structures; trigonometry is all you need!'
 date: 2022-09-30
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/pdf/2209.15611.pdf'
