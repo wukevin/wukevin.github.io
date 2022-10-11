@@ -12,4 +12,4 @@ I am a PhD student studying Computer Science at Stanford University. I am fortun
 
 Prior to starting my graduate studies in 2018, I completed my B.S. from UC Berkeley in 2016 and worked at [Illumina, Inc.](https://www.illumina.com) as a bioinformatics scientist for two years.
 
-:us: :taiwan:
+🇺🇸🇹🇼
