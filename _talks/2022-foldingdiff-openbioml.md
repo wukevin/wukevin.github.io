@@ -8,4 +8,4 @@ date: 2022-11-04
 location: "Online"
 ---
 
-Invited talk on `FoldingDiff`, see recording on [YouTube](https://www.youtube.com/watch?v=pjB88rrHDTg).
+Invited talk on `FoldingDiff` at the [OpenBioML](https://openbioml.org) journal club, see recording on [YouTube](https://www.youtube.com/watch?v=pjB88rrHDTg).
